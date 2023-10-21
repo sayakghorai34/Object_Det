@@ -1,2 +1,3 @@
 # Object_Det
- Object Detection Using YOLO
+
+Download Yolo V8x from Here : https://github.com/ultralytics/ultralytics
